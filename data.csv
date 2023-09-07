@@ -1,176 +1,175 @@
 id,Sexe,2023,2022,2021,2019,2018,2017,2016,2015,2014,2013,2012,2011,2009,2005,2004,2003,2002,2001,,année de naissance,zone
-0,F,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,Québec
-1,F,,,,,,,,,,,,,,,,,1-Int,1-Int,,,
-2,M,,,,,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,
-3,M,,,,,,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,,,
-4,M,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,
-5,M,,,,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,1942,
-6,M,,,,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,1939,
-7,F,,,,,,,,,,,,,,,,2-Cont,2-Cont,2-Cont,,,
-8,M,,,,,,,,,,,,,,,,,2-Cont,2-Cont,,,
-9,M,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,,,Rive-Sud
-10,M,,,,,,,,,,,,,,,,2-Cont,2-Cont,2-Cont,,,
-11,M,,,,,,,,,,,,,,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,,,
-12,M,,,,,,,,,,,,,,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,,,
-13,M,,,,,,,,,,,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,,,
-14,M,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,,,Bas St-Laurent/Gaspésie
-15,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,,1952,Lanaudière
-16,M,,,,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,,,Montréal
-17,M,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,,,Mauricie
-18,M,,,,,,,,2-Cont-I,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,Nat A,Nat A,,,
-19,M,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,Nat A,,,Bas St-Laurent/Gaspésie
-20,M,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,Nat A,Nat A,Nat A,,,Bas St-Laurent/Gaspésie
-21,M,,,,,,,,,,,,,,Nat A,Nat A,Nat A,Nat A,Nat A,,,
-22,M,,,,,,,,,,,,,,3-Conf,Nat A,Nat A,Nat A,Nat A,,,
-23,M,,,,,,,,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat A,,,
-24,M,,,,,,,,,,,,,,,Nat A,Nat A,Nat A,Nat A,,,
-25,M,,,,,,,,,,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,,,
-26,M,,,,,,,,,,,,2-Cont,2-Cont,3-Conf,3-Conf,Nat A,Nat A,Nat A,,,
-27,M,,,,,,,,,,,,,,Nat B,Nat B,Nat B,Nat B,Nat B,,,
-28,M,,,,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat C,Nat C,,,Montréal
-29,M,,,,,,,,,,,,,,Nat B,Nat B,Nat B,Nat C,Nat C,,,
-30,M,,,,Nat C,,,,,,,,,,,Nat C,Nat C,Nat C,Nat C,,,
-31,M,,,,,,,,,,,,,,Nat C,Nat C,Nat C,Nat C,Nat C,,,
-32,M,,,,,,,,,,,,,,Nat C,Nat C,Nat C,Nat C,Nat C,,,
-33,M,,,,,,,,Nat B-I,,,,,Nat B,,,Nat B,Nat B,Nat C,,,
-34,M,,,,,,,,,,,,,,,Nat C,Nat C,Nat C,Nat C,,,
-35,M,,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat C,Nat C,,,Saguenay/Lac St-Jean
-36,F,,,,,,,,,,,,,,,,,Prov A,Prov A,,,
-37,F,,,,,,,,,,,,,,,,,,Prov A,,,
-38,F,,,,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat C,Nat C,Prov A,Prov A,,,Rive-Sud
-39,F,,,,,,,,,,,,,,Nat C,Nat C,Nat C,Prov A,Prov A,,,
-40,M,,2-Cont-I,2-Cont,2-Cont,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,Nat C,,,,,Nat C,Prov A,,,Montréal
-41,M,,,,,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,,,Nat C,Prov A,Prov A,,,Montréal
-42,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat C,Nat C,Prov A,Prov A,,1955,Lanaudière
-43,M,,,,,,,,,,,,,,,,Nat C,Nat C,Prov A,,,
-44,M,,,,,,,,,,,,,,Prov A,Prov A,Prov A,Prov A,Prov A,,,
-45,M,,Nat A-I,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat C,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,,1977,Montréal
-46,M,,,,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat B,Nat C,Prov A,Prov A,Prov A,Prov A,Prov A,,,Québec
-47,M,,,,,,Nat C-I,Nat C-I,Nat C-I,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,Prov A,Prov A,Prov A,,,Québec
-48,F,,,,,,,,,,,,,,,,,,Prov B,,,
-49,F,,,,,,,,,,,,,,,,,,Prov B,,,
-50,M,,,,,,,,,,,,,,,,,,Prov B,,,
-51,M,,,,,,,,,,,,,,,,Prov B,Prov B,Prov B,,,
-52,M,,,,,,,,,,,,,,,Prov A,Prov A,Prov B,Prov B,,,
-53,M,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat C,Prov A,Prov A,Prov A,Prov B,,,Mauricie
-54,M,,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat C,Prov A,Prov A,Prov B,Prov B,,,Mauricie
-55,M,,,,,,,,,,,,,,,,Prov A,Prov A,Prov B,,,
-56,M,,,,,,,,,,,,,,,,,,Prov B,,,
-57,M,,,,,,Nat A,Nat A,,,,,Nat A,Nat A,Nat A,Nat C,Nat C,Prov A,Prov B,,,
-58,M,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat C,Prov A,Prov A,Prov A,Prov B,,,Bas St-Laurent/Gaspésie
-59,M,,,,,,,,,,,,,,Prov A,Prov A,Prov A,Prov A,Prov B,,,
-60,F,Nat A,Nat A,Nat B,Nat B,Nat C,Nat C,Nat C,Prov A,Prov A,Prov B,,,,,,,,,,1993,Bas St-Laurent/Gaspésie
-61,F,,,2-Cont-I,2-Cont,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat B,Nat B,Nat C,Prov A,,,,,,1986,Rive-Sud
-62,F,,,,,,,,Prov A,,Prov A,,,,,,,,,,,
-63,F,Nat C,Nat C,Nat C,Prov A,Prov B-I,Prov B-I,Prov B,,,,,,,,,,,,,,Estrie
-64,F,Prov B,Prov B,Prov B,,,,,,,,,,,,,,,,,,
-65,F,,,,,,,,,,,,,,,Prov B,,,,,,
-66,F,,,,,,,,Prov B-I,Prov B,,Prov B,Prov B,Prov B,,,,,,,,
-67,F,Nat B,Nat B,Nat C,Prov A,Prov B,,,,,,,,,,,,,,,2000,Estrie
-68,F,Prov A,Prov B,Prov B,,,,,,,,,,,,,,,,,,
-69,F,Nat C,Prov A,Prov A,,,,,,,,,,,,,,,,,,
-70,F,2-Cont,2-Cont,2-Cont,2-Cont,Nat A,Nat A,Nat A,Nat A,Nat C,Prov A,Prov A,Prov A,,,,,,,,1978,Rive-Sud
-71,F,,,,,,,,,,Prov B,,,,,,,,,,,
-72,F,,,,,Nat C,Nat C,Nat C,,,,,,,,,,,,,,Montréal
-73,F,,,,,Prov B-I,,,,,,,,,,,,,,,,Québec
-74,F,,Prov B,,,,,,,,,,,,,,,,,,,
-75,F,Prov A,Prov A,Prov B,,,,,,,,,,,,,,,,,,
-76,F,2-Cont,2-Cont,Nat A,Nat A,Nat B,Nat C,Prov A,,,,,,,,,,,,,1995,Outaouais
-77,F,,,,,Prov B,,,,,,,,,,,,,,,,Outaouais
-78,F,,,,,,,,,,,,,Nat C,,,,,,,,
-79,F,,,,,,,,,,,,,,,,Prov A,,,,,
-80,F,,,,,Prov B,,,,,,,,,,,,,,,,Bas St-Laurent/Gaspésie
-81,F,,,,,,,,Nat C-I,Prov A,Prov B,Prov B,,,,,,,,,,
-82,F,,,,,,,,,,,,,Nat C,,,,,,,,
-83,F,Nat B,Nat B,Nat C,Nat C,Prov A,Prov B,,,,,,,,,,,,,,1983,Rive-Sud
-84,F,,,,,,,Prov B,Prov B,,,,,,,,,,,,,
-85,F,,,,,,,,,,,,,Prov B,,,,,,,,
-86,F,,,,Nat B-I,Prov A,Prov A,,,,,,,,,,,,,,,Rive-Sud
-87,F,,,,,,,,Nat A-I,Nat A,Nat A,Nat A,Nat B,Nat B,Prov B,,,,,,,
-88,F,Prov B,Prov B,,,,,,,,,,,,,,,,,,,
-89,F,2-Cont,Nat A,Nat A,Nat A,Nat C,Prov A,Prov A,Prov B,Prov B,,,,,,,,,,,,Saguenay/Lac St-Jean
-90,F,Prov A,Prov A,Prov B,Prov B,,,,,,,,,,,,,,,,,
-91,F,,,,,,,,,,,,,,Prov B,,,,,,,
-92,F,,,,,,Prov B,Prov B,Prov B,,,,,,,,,,,,,Rive-Sud
-93,F,,,,,Prov B-I,,,,,,,,,,,,,,,,Outaouais
-94,M,,2-Cont,2-Cont,2-Cont,2-Cont,,,,,,,,,,,,,,,1966,Montréal
-95,M,,,,,,,,,,,,,,,,Prov A,,,,,
-96,M,,,,,,,,Prov B-I,Prov B,,,,,,,,,,,,
-97,M,,,,,,,,,,,,,,Prov B,Prov B,,,,,,
-98,M,,,,Prov A-I,Prov A-I,,,Prov B-I,Prov B,,,,,,,,,,,,Rive-Sud
-99,M,Prov B,Prov B,,,,,,,,,,,,,,,,,,,
-100,M,,,,,,,,,,,,,,,,,,,,1960,
-101,M,,,,,,,,,,,,,,Prov A,Prov B,,,,,,
-102,M,,,,,,,,Nat C-I,,Prov A,Prov A,Prov A,,,,,,,,,
-103,M,Nat C,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,Prov B,,,,,,,,,,,1956,Mauriie
-104,M,,,,,,,,,,,,,,Prov B,Prov B,,,,,,
-105,M,,,,,,,,3-Conf-I,,3-Conf,3-Conf,3-Conf,,,,,,,,,
-106,M,,,,,,,,,,,,Nat C,Prov A,,,,,,,,
-107,M,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat B,Nat C,Nat C,Nat C,Nat C,Nat C,Prov A,,,,,,,1978,Rive-Sud
-108,M,,,,,,,,,,,,,,Prov B,,,,,,,
-109,M,Nat A,Nat A,Nat A,Nat A,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,,,,,,,,,,1995,Rive-Sud
-110,M,,,,,,Prov B-I,Prov B-I,,,,,,,,,,,,,,Estrie
-111,M,,,,,,Nat C,Nat C,Prov A,Prov A,Prov A,,Prov B,,,,,,,,,Lanaudière
-112,M,,,Nat B,Nat B,Nat B,Nat B,Nat B,Nat B,Nat B,Nat C,Nat C,Nat C,Prov A,,,,,,,1961,Montréal
-113,M,,,,,Nat C-I,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,Prov B,,,,,,,,,Rive-Sud
-114,M,,,,,,,,,,,,,,Prov B,Prov B,,,,,,
-115,M,,,,,,Prov B,Prov B,,,,,,,,,,,,,,Rive-Sud
-116,M,,,,,,,,Nat C,Nat C,Prov A,Prov A,Prov A,,,,,,,,,
-117,M,Nat C,Prov A,Prov A,Prov B,,,,,,,,,,,,,,,,1984,
-118,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat C,Prov B,,,,,,1966,Rive-Sud
-119,M,,,,,Prov A,Prov A,Prov A,Prov B-I,,Prov B,,,,,,,,,,,Montréal
-120,M,,,Prov A-I,Prov A-I,Prov B,,,,,,,,,,,,,,,,Rive-Sud
-121,M,,,,,,,,,,,,,,Prov B,,,,,,,
-122,M,,,,,,,,Nat C-I,,,Prov A,Prov A,,,,,,,,,
-123,M,,,,,,,,,,,,,,Prov A,Prov B,,,,,,
-124,M,,,,,,,,Prov A-I,,Prov A,Prov A,Prov A,Prov B,,,,,,,,
-125,M,,,Prov B,Prov B,,,,,,,,,,,,,,,,2002,
-126,M,Prov B,Prov B,Prov B,Prov B,,,,,,,,,,,,,,,,2002,
-127,M,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,,,Montréal
-128,M,,,,,,,Prov A,Prov B,Prov B,,,,,,,,,,,,
-129,M,,,,,,,,Prov A-I,,Prov A,Prov A,Prov B,,,,,,,,,
-130,M,,,,,,,2-Cont,2-Cont,2-Cont,2-Cont,,,,,,,,,,,
-131,M,,,,,,,,,,,,,,Prov B,,,,,,,
-132,M,,,,,,,,,,,,,,,,Prov A,Prov A,,,,
-133,M,,,,,,,,,,,,,,,,Prov B,,,,,
-134,M,Nat A,Nat A,Nat A,Nat A,Nat B,Nat C,Prov A,Prov B,Prov B,Prov B,,,,,,,,,,1992,Montréal
-135,M,,,,,,,,,,,,,,Prov A,Prov A,Prov B,,,,,
-136,M,,,,,,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,,,,,,,,,Saguenay/Lac St-Jean
-137,M,Prov A,Prov A,Prov B,,,,,,,,,,,,,,,,,,
-138,M,Nat A,Nat A,Nat A,Nat A,Nat B,Prov A,Prov A,Prov A,Prov A,Prov A,Prov A,Prov B,,,,,,,,1973,Estrie
-139,M,,,,,,,,Nat A-I,,Nat A,Nat A,Nat A,Nat B,Nat C,Prov A,Prov A,Prov A,,,,
-140,M,,,,,,Nat A,Nat A,Nat A-I,Nat A,Nat A,Nat A,Nat A,,,,,,,,,Rive-Sud
-141,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,Nat A,Nat A,Nat B,Nat B,Prov A,Prov A,Prov A,,,,,,,,1959,Rive-Sud
-142,M,,,,,,Nat C,Nat C,Nat C,Prov A,Prov A,Prov B,,,,,,,,,,Rive-Sud
-143,M,,,,,,Prov A-I,Prov A-I,Prov B,Prov A,,,,,,,,,,,,Rive-Sud
-144,M,Prov B,Prov B,,,,,,,,,,,,,,,,,,,
-145,M,,,,,,,,Prov B-I,,,,,,,,,,,,,
-146,M,Nat C,Nat C,,,,,,,,,,,,,,,,,,,
-147,M,,2-Cont-I,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,,,2-Cont,2-Cont,3-Conf,Nat A,,,,,,,,Montréal
-148,M,,,,,,,,,,,,,,Prov A,,,,,,,
-149,M,,,,,,,,Prov B-I,Prov B,Prov B,,,,,,,,,,,
-150,M,,,,2-Cont-I,,,,,,,,,,,,,,,,,
-151,M,,,,2-Cont,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat B,Nat C,Prov A,,,,,,,1958,Rive-Sud
-152,M,,,,,Prov B,Prov B,,,,,Prov B,Prov B,,,,,,,,,Rive-Sud
-153,M,,,,,,,,,,,,,,Prov B,Prov B,,,,,,
+0,M,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,,,Mauricie
+1,M,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,,,Rive-Sud
+2,M,1-Int,1-Int,2-Cont,,,,,,,,,,,,,,,,,,
+3,M,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,,,Bas St-Laurent/Gaspésie
+4,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,,1952,Lanaudière
+5,M,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,Nat A,Nat A,Nat A,,,Bas St-Laurent/Gaspésie
+6,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat C,Prov B,,,,,,1966,Rive-Sud
+7,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat C,Nat C,Prov A,Prov A,,1955,Lanaudière
+8,F,2-Cont,2-Cont,2-Cont,2-Cont,Nat A,Nat A,Nat A,Nat A,Nat C,Prov A,Prov A,Prov A,,,,,,,,1978,Rive-Sud
+9,F,2-Cont,2-Cont,Nat A,Nat A,Nat B,Nat C,Prov A,,,,,,,,,,,,,1995,Outaouais
+10,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,Nat A,Nat A,Nat B,Nat B,Prov A,Prov A,Prov A,,,,,,,,1959,Rive-Sud
+11,M,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat C,Prov A,Prov A,Prov A,Prov B,,,Bas St-Laurent/Gaspésie
+12,F,2-Cont,Nat A,Nat A,Nat A,Nat C,Prov A,Prov A,Prov B,Prov B,,,,,,,,,,,,Saguenay/Lac St-Jean
+13,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat B,Nat B,Prov B,Prov B,,,,,1985,Montréal
+14,F,Nat A,Nat A,Nat B,Nat B,Nat C,Nat C,Nat C,Prov A,Prov A,Prov B,,,,,,,,,,1993,Bas St-Laurent/Gaspésie
+15,M,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat C,Prov A,Prov A,Prov A,Prov B,,,Mauricie
+16,M,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat B,Nat C,Nat C,Nat C,Nat C,Nat C,Prov A,,,,,,,1978,Rive-Sud
+17,M,Nat A,Nat A,Nat A,Nat A,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,,,,,,,,,,1995,Rive-Sud
+18,M,Nat A,Nat A,Nat A,Nat A,Nat B,Nat C,Prov A,Prov B,Prov B,Prov B,,,,,,,,,,1992,Montréal
+19,M,Nat A,Nat A,Nat A,Nat A,Nat B,Prov A,Prov A,Prov A,Prov A,Prov A,Prov A,Prov B,,,,,,,,1973,Estrie
+20,M,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat B,Nat C,Nat C,Prov A,Prov A,Prov A,Prov A,,,,,,,1955,Rive-Sud
+21,M,Nat A,Nat A,Nat A,Nat A,Nat B,Prov A,Prov A,Prov A,,Prov A,Prov B,,,,,,,,,1972,Lanaudière
+22,F,Nat B,Nat B,Nat C,Prov A,Prov B,,,,,,,,,,,,,,,2000,Estrie
+23,F,Nat B,Nat B,Nat C,Nat C,Prov A,Prov B,,,,,,,,,,,,,,1983,Rive-Sud
+24,M,Nat B,Nat B,Nat C,Prov A,Prov B,,,,,,,,,,,,,,,,Lanaudière
+25,M,Nat B,Nat B,Nat C,Prov A,Prov B,Prov B,,,,,,,,,,,,,,1997,Montréal
+26,M,Nat B,Nat B,Nat C,Prov A,Prov B,Prov B,,,,,,,,,,,,,,1975,Rive-Sud
+27,M,Nat C,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,Prov B,,,,,,,,,,,1956,Mauriie
+28,F,Nat C,Nat C,Nat C,Prov A,Prov B-I,Prov B-I,Prov B,,,,,,,,,,,,,,Estrie
+29,M,Nat C,Prov A,Prov A,Prov B,,,,,,,,,,,,,,,,1984,
+30,F,Nat C,Prov A,Prov A,,,,,,,,,,,,,,,,,,
+31,M,Nat C,Nat C,,,,,,,,,,,,,,,,,,,
+32,F,Prov A,Prov B,Prov B,,,,,,,,,,,,,,,,,,
+33,F,Prov A,Prov A,Prov B,,,,,,,,,,,,,,,,,,
+34,M,Prov A,Prov A,Prov B,,,,,,,,,,,,,,,,,,
+35,F,Prov A,Prov A,Prov B,Prov B,,,,,,,,,,,,,,,,,
+36,M,Prov A,Prov A,,Prov A,Prov A,Prov A,Prov A,Prov A,Prov A,Prov A,Prov B,Prov B,,,,,,,,1953,Montréal
+37,M,Prov B,Prov B,,,,,,,,,,,,,,,,,,,
+38,F,Prov B,Prov B,Prov B,,,,,,,,,,,,,,,,,,
+39,M,Prov B,Prov B,Prov B,Prov B,,,,,,,,,,,,,,,,2002,
+40,M,Prov B,Prov B,,,,,,,,,,,,,,,,,,,
+41,F,Prov B,Prov B,,,,,,,,,,,,,,,,,,,
+42,M,Prov B,Prov B,Prov B,,,,,,,,,,,,,,,,,,
+43,M,,2-Cont,2-Cont,2-Cont,2-Cont,,,,,,,,,,,,,,,1966,Montréal
+44,M,,,,,,,,,,,,,,,,Prov A,,,,,
+45,F,,,,,,,,,,,,,,,,,,Prov B,,,
+46,M,,,,,,,,,,,,,,,,,,Prov B,,,
+47,M,,,,,,,,,,,,,,,,Prov B,Prov B,Prov B,,,
+48,M,,,,,,,,Prov B-I,Prov B,,,,,,,,,,,,
+49,M,,2-Cont-I,2-Cont,2-Cont,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,Nat C,,,,,Nat C,Prov A,,,Montréal
+50,F,,,2-Cont-I,2-Cont,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat B,Nat B,Nat C,Prov A,,,,,,1986,Rive-Sud
+51,M,,,,,,,,,,,,,,,,,2-Cont,2-Cont,,,
+52,M,,,,,,,,,,,,,,Prov B,Prov B,,,,,,
+53,M,,,,Prov A-I,Prov A-I,,,Prov B-I,Prov B,,,,,,,,,,,,Rive-Sud
+54,M,,,,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat C,Nat C,,,Montréal
+55,M,,,,,,,,,,,,,,,,,,,,1960,
+56,M,,,,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,,,Montréal
+57,M,,,,,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,
+58,M,,,,,,,,,,,,,,Prov A,Prov B,,,,,,
+59,M,,,,,,,,Nat C-I,,Prov A,Prov A,Prov A,,,,,,,,,
+60,M,,,,,,,,,,,,,,,Prov A,Prov A,Prov B,Prov B,,,
+61,F,,,,,,,,,,,,,,,,,Prov A,Prov A,,,
+62,M,,,,,,,,,,,,,,Prov B,Prov B,,,,,,
+63,M,,,,,,,,3-Conf-I,,3-Conf,3-Conf,3-Conf,,,,,,,,,
+64,F,,,,,,,,,,,,,,,,,,Prov A,,,
+65,M,,,,,,,,,,,,Nat C,Prov A,,,,,,,,
+66,F,,,,,,,,Prov A,,Prov A,,,,,,,,,,,
+67,M,,,,,,,,2-Cont-I,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,Nat A,Nat A,,,
+68,F,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,Québec
+69,M,,,,,,,,,,,,,,Prov B,,,,,,,
+70,F,,,,,,,,,,,,,,,,,1-Int,1-Int,,,
+71,M,,,,,,Prov B-I,Prov B-I,,,,,,,,,,,,,,Estrie
+72,M,,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat C,Prov A,Prov A,Prov B,Prov B,,,Mauricie
+73,M,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,Nat A,,,Bas St-Laurent/Gaspésie
+74,F,,,,,,,,,,,,,,,Prov B,,,,,,
+75,M,,,,,,Nat C,Nat C,Prov A,Prov A,Prov A,,Prov B,,,,,,,,,Lanaudière
+76,M,,,Nat B,Nat B,Nat B,Nat B,Nat B,Nat B,Nat B,Nat C,Nat C,Nat C,Prov A,,,,,,,1961,Montréal
+77,F,,,,,,,,,,,,,,,,,,Prov B,,,
+78,M,,,,,Nat C-I,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,Prov B,,,,,,,,,Rive-Sud
+79,F,,,,,,,,Prov B-I,Prov B,,Prov B,Prov B,Prov B,,,,,,,,
+80,M,,,,,,,,,,,,,,Prov B,Prov B,,,,,,
+81,M,,,,,,Prov B,Prov B,,,,,,,,,,,,,,Rive-Sud
+82,M,,,,,,,,Nat C,Nat C,Prov A,Prov A,Prov A,,,,,,,,,
+83,M,,,,,,,,,,,,,,Nat B,Nat B,Nat B,Nat C,Nat C,,,
+84,M,,,,,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,,,Nat C,Prov A,Prov A,,,Montréal
+85,F,,,,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat C,Nat C,Prov A,Prov A,,,Rive-Sud
+86,F,,,,,,,,,,,,,,Nat C,Nat C,Nat C,Prov A,Prov A,,,
+87,F,,,,,,,,,,,,,,,,2-Cont,2-Cont,2-Cont,,,
+88,M,,,,Nat C,,,,,,,,,,,Nat C,Nat C,Nat C,Nat C,,,
+89,M,,,,,Prov A,Prov A,Prov A,Prov B-I,,Prov B,,,,,,,,,,,Montréal
+90,M,,,Prov A-I,Prov A-I,Prov B,,,,,,,,,,,,,,,,Rive-Sud
+91,M,,,,,,,,,,,,,,,,Prov A,Prov A,Prov B,,,
+92,M,,,,,,,,,,,,,,Prov B,,,,,,,
+93,M,,,,,,,,Nat C-I,,,Prov A,Prov A,,,,,,,,,
+94,M,,,,,,,,,,,,,,,,Nat C,Nat C,Prov A,,,
+95,M,,,,,,,,,,,,,,Prov A,Prov B,,,,,,
+96,M,,,,,,,,,,,,,,Nat A,Nat A,Nat A,Nat A,Nat A,,,
+97,M,,,,,,,,Prov A-I,,Prov A,Prov A,Prov A,Prov B,,,,,,,,
+98,M,,,Prov B,Prov B,,,,,,,,,,,,,,,,2002,
+99,M,,,,,,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,,,
+100,M,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,,,Montréal
+101,M,,,,,,,Prov A,Prov B,Prov B,,,,,,,,,,,,
+102,F,,,,,,,,,,Prov B,,,,,,,,,,,
+103,F,,,,,Nat C,Nat C,Nat C,,,,,,,,,,,,,,Montréal
+104,F,,,,,Prov B-I,,,,,,,,,,,,,,,,Québec
+105,M,,,,,,,,Prov A-I,,Prov A,Prov A,Prov B,,,,,,,,,
+106,M,,,,,,,2-Cont,2-Cont,2-Cont,2-Cont,,,,,,,,,,,
+107,M,,,,,,,,,,,,,,3-Conf,Nat A,Nat A,Nat A,Nat A,,,
+108,M,,,,,,,,,,,,,,,,,,Prov B,,,
+109,F,,Prov B,,,,,,,,,,,,,,,,,,,
+110,M,,,,,,,,,,,,,,Prov A,Prov A,Prov A,Prov A,Prov A,,,
+111,M,,,,,,,,,,,,,,Prov B,,,,,,,
+112,M,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,,
+113,M,,Nat A-I,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat C,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,,1977,Montréal
+114,M,,,,,,,,,,,,,,,,Prov A,Prov A,,,,
+115,F,,,,,Prov B,,,,,,,,,,,,,,,,Outaouais
+116,F,,,,,,,,,,,,,Nat C,,,,,,,,
+117,F,,,,,,,,,,,,,,,,Prov A,,,,,
+118,M,,,,,,,,,,,,,,Nat C,Nat C,Nat C,Nat C,Nat C,,,
+119,M,,,,,,,,,,,,,,,,Prov B,,,,,
+120,M,,,,,,,,,,,,,,Prov A,Prov A,Prov B,,,,,
+121,F,,,,,Prov B,,,,,,,,,,,,,,,,Bas St-Laurent/Gaspésie
+122,M,,,,,,,,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat A,,,
+123,F,,,,,,,,Nat C-I,Prov A,Prov B,Prov B,,,,,,,,,,
+124,M,,,,,,,,,,,,,,,Nat A,Nat A,Nat A,Nat A,,,
+125,M,,,,,,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,,,,,,,,,Saguenay/Lac St-Jean
+126,M,,,,,,,,,,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,,,
+127,M,,,,,,,,,,,,,,Nat C,Nat C,Nat C,Nat C,Nat C,,,
+128,M,,,,,,,,Nat B-I,,,,,Nat B,,,Nat B,Nat B,Nat C,,,
+129,F,,,,,,,,,,,,,Nat C,,,,,,,,
+130,M,,,,,,,,Nat A-I,,Nat A,Nat A,Nat A,Nat B,Nat C,Prov A,Prov A,Prov A,,,,
+131,M,,,,,,Nat A,Nat A,Nat A-I,Nat A,Nat A,Nat A,Nat A,,,,,,,,,Rive-Sud
+132,M,,,,,,,,,,,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,3-Conf,,,
+133,M,,,,,,,,,,,,,,,,2-Cont,2-Cont,2-Cont,,,
+134,M,,,,,,Nat C,Nat C,Nat C,Prov A,Prov A,Prov B,,,,,,,,,,Rive-Sud
+135,M,,,,,,Prov A-I,Prov A-I,Prov B,Prov A,,,,,,,,,,,,Rive-Sud
+136,M,,,,,,,,,,,,,,Nat B,Nat B,Nat B,Nat B,Nat B,,,
+137,F,,,,,,,Prov B,Prov B,,,,,,,,,,,,,
+138,M,,,,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,1942,
+139,M,,,,,,,,Prov B-I,,,,,,,,,,,,,
+140,F,,,,,,,,,,,,,Prov B,,,,,,,,
+141,M,,,,,,Nat A,Nat A,,,,,Nat A,Nat A,Nat A,Nat C,Nat C,Prov A,Prov B,,,
+142,M,,2-Cont-I,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,,,2-Cont,2-Cont,3-Conf,Nat A,,,,,,,,Montréal
+143,M,,,,,,,,,,,,,,Prov A,,,,,,,
+144,M,,,,,,,,Prov B-I,Prov B,Prov B,,,,,,,,,,,
+145,M,,,,Nat A,Nat A,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat B,Nat C,Prov A,Prov A,Prov A,Prov A,Prov A,,,Québec
+146,M,,,,2-Cont,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat B,Nat C,Prov A,,,,,,,1958,Rive-Sud
+147,F,,,,Nat B-I,Prov A,Prov A,,,,,,,,,,,,,,,Rive-Sud
+148,M,,,,,Prov B,Prov B,,,,,Prov B,Prov B,,,,,,,,,Rive-Sud
+149,M,,,,,,,,,,,,,,Prov B,Prov B,,,,,,
+150,M,,,,,,,,,,,,2-Cont,2-Cont,3-Conf,3-Conf,Nat A,Nat A,Nat A,,,
+151,M,,,,,,,,,,,,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,1-Int,,1939,
+152,M,,,,,,Nat C-I,Nat C-I,Nat C-I,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,Prov A,Prov A,Prov A,,,Québec
+153,F,,,,,,,,Nat A-I,Nat A,Nat A,Nat A,Nat B,Nat B,Prov B,,,,,,,
 154,M,,,,,,,,Prov B-I,,,,,,,,,,,,,
-155,M,Nat B,Nat B,Nat C,Prov A,Prov B,,,,,,,,,,,,,,,,Lanaudière
+155,M,,,,,,,,,,,,,,,Nat C,Nat C,Nat C,Nat C,,,
 156,M,,,,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,,,,,,,,,,,,1970,Québec
-157,M,Nat A,Nat A,Nat A,Nat A,Nat B,Nat B,Nat B,Nat C,Nat C,Prov A,Prov A,Prov A,Prov A,,,,,,,1955,Rive-Sud
-158,M,1-Int,1-Int,2-Cont,,,,,,,,,,,,,,,,,,
-159,M,Nat B,Nat B,Nat C,Prov A,Prov B,Prov B,,,,,,,,,,,,,,1997,Montréal
-160,M,Prov B,Prov B,Prov B,,,,,,,,,,,,,,,,,,
-161,M,Nat B,Nat B,Nat C,Prov A,Prov B,Prov B,,,,,,,,,,,,,,1975,Rive-Sud
-162,M,,,,,Nat C,Nat C,Nat C,Nat C,Nat C,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,Prov A,,,,Montréal
-163,M,,,,,,,,,,,,,,Prov A,Prov A,,,,,,
-164,M,,,,,,,,,,,,,Nat B,Nat C,Prov A,Prov A,Prov A,,,,
-165,M,,,,Nat B-I,Nat B,Nat B,Nat B,Nat B,Prov A,Prov A,Prov B,Prov B,,,,,,,,,Bas St-Laurent/Gaspésie
-166,M,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,3-Conf,3-Conf,3-Conf,Nat A,Nat A,Nat A,Nat B,Nat B,Prov B,Prov B,,,,,1985,Montréal
-167,M,,,,,,,,,,,,,,,,,Prov A,,,,
-168,M,,,,,,,,,,,,,,Prov A,Prov A,,Prov A,,,,
-169,M,,,,,,,,Prov B-I,,,,,,,,,,,,,
+157,M,,,,,Nat C,Nat C,Nat C,Nat C,Nat C,Nat C,Nat C,Nat C,Nat C,Prov A,Prov A,Prov A,Prov A,,,,Montréal
+158,M,,,,,,,,,,,,,,Prov A,Prov A,,,,,,
+159,M,,,,,,,,,,,,,Nat B,Nat C,Prov A,Prov A,Prov A,,,,
+160,M,,,,Nat B-I,Nat B,Nat B,Nat B,Nat B,Prov A,Prov A,Prov B,Prov B,,,,,,,,,Bas St-Laurent/Gaspésie
+161,M,,,,,,,,,,,,,,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,,,
+162,M,,,,,,,,,,,,,,,,,Prov A,,,,
+163,M,,,,,,,,,,,,,,Prov A,Prov A,,Prov A,,,,
+164,M,,,,,,,,Prov B-I,,,,,,,,,,,,,
+165,F,,,,,,,,,,,,,,Prov B,,,,,,,
+166,M,,1-Int,1-Int,1-Int,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,3-Conf,Nat A,Nat A,Nat A,Nat C,Nat C,,,Saguenay/Lac St-Jean
+167,F,,,,,,Prov B,Prov B,Prov B,,,,,,,,,,,,,Rive-Sud
+168,M,,,,,,,,,,,,,,Prov A,Prov A,Prov A,Prov A,Prov B,,,
+169,M,,,,,,,,,,,,,,2-Cont,2-Cont,2-Cont,2-Cont,2-Cont,,,
 170,M,,,,,Nat A,Nat A,Nat A,Nat A,Nat C,Prov A,Prov A,Prov A,,,,,,,,,Saguenay/Lac St-Jean
-171,M,Prov A,Prov A,,Prov A,Prov A,Prov A,Prov A,Prov A,Prov A,Prov A,Prov B,Prov B,,,,,,,,1953,Montréal
-172,M,,,,,,,,,,,,,,Prov A,Prov A,Prov A,,,,,
-173,M,Nat A,Nat A,Nat A,Nat A,Nat B,Prov A,Prov A,Prov A,,Prov A,Prov B,,,,,,,,,1972,Lanaudière
-174,M,,,,,Prov B,,,,,,,,,,,,,,,,Laval
+171,M,,,,,,,,,,,,,,Prov A,Prov A,Prov A,,,,,
+172,F,,,,,Prov B-I,,,,,,,,,,,,,,,,Outaouais
+173,M,,,,,Prov B,,,,,,,,,,,,,,,,Laval

@@ -12,18 +12,19 @@ class Referee:
         self.sexe = sexe
         self.grades = grades
         self.actives = actives
-    def first_season(self): # chronologically earliest
+    def earliest_season(self): # chronologically earliest
         return max(idx for idx, flag in enumerate(self.actives) if flag)
-    def last_season(self): # chronologically latest
+    def latest_season(self): # chronologically latest
         return min(idx for idx, flag in enumerate(self.actives) if flag)
     def is_active_in_yr(self, yr):
         global season_data
         return self.actives[season_data.yr_to_col[yr]]
 
 class SeasonData:
-    def __init__(self, seasons, yr_to_col):
+    def __init__(self, seasons, yr_to_col, col_to_yr):
         self.seasons = seasons
         self.yr_to_col = yr_to_col
+        self.col_to_yr = col_to_yr
         self.adjacent_year_pairs = self.compute_adjacent_year_pairs()
     def compute_adjacent_year_pairs(self):
         pairs = []
@@ -45,13 +46,15 @@ def get_ref_by_id(refs, id):
 def initialize_season_data(header):
     seasons = []
     seasons_yr_to_col = {}
+    seasons_col_to_yr = {}
     current_col = 0
     for season in header:
         if re.match("20\d\d", season):
             seasons.append(season)
             seasons_yr_to_col[season] = current_col
+            seasons_col_to_yr[current_col] = season
             current_col = current_col + 1
-    return SeasonData(seasons, seasons_yr_to_col)
+    return SeasonData(seasons, seasons_yr_to_col, seasons_col_to_yr)
 
 all_grades=[
     'Prov B','Prov A','Nat C','Nat B','Nat A','3-Conf','2-Cont','1-Int'
@@ -141,8 +144,8 @@ def print_joining_and_leaving(refs):
         for leaver_id in ids_in_yr_n_but_not_npp:
             leaver = get_ref_by_id(refs, leaver_id)
             # is only a leaver if never appears in any season after n
-            # print ("leaver %i, n is %s, last season is %i" % (leaver_id,n_season,leaver.last_season()))
-            if leaver.last_season() == n_season:
+            # print ("leaver %i, n is %s, last season is %i" % (leaver_id,n_season,leaver.latest_season()))
+            if leaver.latest_season() == n_season:
                 leaver_grade = max(leaver.grades)
                 left_at[leaver_grade] += 1
                 leavers += 1
@@ -150,8 +153,8 @@ def print_joining_and_leaving(refs):
         for joiner_id in ids_in_yr_npp_but_not_n:
             joiner = get_ref_by_id(refs, joiner_id)
             # is only a joiner if never appears in any season before npp
-            # print ("joiner %i, npp is %s, first season is %i" % (joiner_id,npp_season,joiner.first_season()))
-            if joiner.first_season() == npp_season:
+            # print ("joiner %i, npp is %s, first season is %i" % (joiner_id,npp_season,joiner.earliest_season()))
+            if joiner.earliest_season() == npp_season:
                 joiner_grade = min(filter(lambda x: x >= 0, joiner.grades))
                 joined_at[joiner_grade] += 1
                 joiners += 1
@@ -186,13 +189,22 @@ def print_probabilities_per_referee_grade(refs):
         expected_promotion_time = "{:.1f}".format(total_events/promotion_events) if promotion_events > 0 else "---"
         print("grade {:7s}: total events {:3}, continue {:.0%}, non-continue {:.0%} (E(1/n): {:.1f}), promote {:.0%} (E(1/n): {})".format(grade, total_events, continue_events/total_events, 1-(continue_events/total_events), 1/(1-(continue_events/total_events)), promotion_events/total_events, expected_promotion_time))
 
-def levels_joining_and_leaving(refs):
-    pass
-    # for every adjacent year pair, record the level of new refs/departed refs
-
-        # next question: what level do refs join and leave at?
-        # maybe collect this across all years: "x Prov B refs join, y Nat A refs leave"
-        
+def print_time_to_nat_a(refs):
+    for ref in refs:
+        if max(ref.grades) >= parse_grade('Nat A'):
+            # find first season that this ref was at least nat A, which is last in the list
+            first_nat_a = max(idx for idx, grade in enumerate(ref.grades) if grade >= parse_grade('Nat A'))
+            earliest_season = ref.earliest_season()
+            first_grade = ref.grades[earliest_season]
+            first_nat_a_yr = season_data.col_to_yr[first_nat_a]
+            earliest_season_yr = season_data.col_to_yr[earliest_season]
+            if first_grade <= parse_grade('Prov A'):
+                print ("{} {} {} ({} years) {}".format(ref.id,
+                                                       first_nat_a_yr,
+                                                       earliest_season_yr,
+                                                       int(first_nat_a_yr) - int(earliest_season_yr),
+                                                       unparse_grade(first_grade)))
+    
 ## main
         
 def main():
@@ -223,7 +235,8 @@ def main():
     #print_summary_stats_allyears(refs)
     #print_max_grade_stats(refs)
     #print_joining_and_leaving(refs)
-    print_probabilities_per_referee_grade(refs)            
+    #print_probabilities_per_referee_grade(refs)
+    print_time_to_nat_a(refs)
 
     #refs_2019 = filter(pred_active_in_yr("2019"), refs)
     #compute_max_grade_stats(refs_2019)
