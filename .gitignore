@@ -1,3 +1,7 @@
+*~
+# contains sensitive information when it exists, don't commit
+key.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
