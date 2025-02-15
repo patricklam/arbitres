@@ -82,9 +82,6 @@ def parse_active(grade):
     else:
         return True
 
-def pref_sr():
-    return lambda ref: ref.
-
 def pred_m():
     return lambda ref: ref.sexe == 'M'
 
@@ -328,12 +325,12 @@ def main():
                           int(ddn) if ddn != "" else 0)
             refs.append(ref)
 
-    print_summary_stats_allyears(refs)
+    #print_summary_stats_allyears(refs)
     #print_max_grade_stats(refs)
     #print_joining_and_leaving(refs)
     #print_leaving_age(refs)
     #print_probabilities_per_referee_grade(refs, "")
-    #print_probabilities_per_referee_grade(refs, "F")
+    print_probabilities_per_referee_grade(refs, "F")
     #print_time_to_nat_a(refs, 0, 9999)
     #print_time_nat_a_to_continental(refs)
     #print_time_to_nat_a(refs, 0, 2011)
